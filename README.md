@@ -49,13 +49,13 @@ Detected repeated queries to `wpad.easyas123.tech`, which may indicate automated
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
-### Alert Configuration
-![Alert](screenshots/alert.png)
+### Domain Count Analysis
+![Domain Count](screenshots/Domain_Count.png)
 
-### Suspicious Domain Detection
-![Query Results](screenshots/query.png)
+### Query Frequency Analysis
+![Query Count](screenshots/QueryCount.png)
 
 
 ## Conclusion
