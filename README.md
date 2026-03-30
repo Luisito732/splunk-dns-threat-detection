@@ -48,6 +48,15 @@ Detected repeated queries to `wpad.easyas123.tech`, which may indicate automated
 
 ## Screenshots
 
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Alert Configuration
+![Alert](screenshots/alert.png)
+
+### Suspicious Domain Detection
+![Query Results](screenshots/query.png)
+
 
 ## Conclusion
 This project demonstrates practical SIEM usage, including log ingestion, detection engineering, and alert creation.
