@@ -11,16 +11,12 @@ Ingest DNS logs into Splunk, extract indicators of compromise, and build detecti
 
 ## Tools Used
 - Splunk Enterprise
-- - DNS logs (CSV format)
-  - - SPL (Search Processing Language)
+- DNS logs (CSV format)
+- SPL (Search Processing Language)
    
     - ---
-
-    ## Methodology
-
-    ### 1. Log Ingestion
-    Imported DNS logs in CSV format into Splunk as a new data source. Verified field extraction and confirmed events were indexed correctly before building any detection logic.
-
+- DNS logs (CSV format)- SPL (Search Processing Language)## 1. Log Ingestion
+- SPL (Search Processing Language)
     ### 2. Domain Extraction
     Used regex via SPL to extract domain names from raw DNS log entries:
     ```
